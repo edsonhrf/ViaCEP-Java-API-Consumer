@@ -3,7 +3,7 @@ This repository contains a Java client for interacting with the ViaCEP API, whic
 
 # Java ViaCEP API Client
 
-![Java](https://img.shields.io/badge/Java-8-orange)
+[![Java](https://img.shields.io/badge/Java-11-orange)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 
 ## Overview
 
