@@ -32,7 +32,10 @@ Maven:
 ```
 
 Gradle:
-```implementation 'com.example:viacep-java-api:1.0.0'```
+```
+implementation 'com.example:viacep-java-api:1.0.0'
+```
+
 
 ### Example
 Here's a simple example demonstrating how to use the library to retrieve address information:
